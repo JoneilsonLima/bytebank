@@ -15,6 +15,10 @@ export class NovaTransferenciaComponent {
   transferir() {
     console.log('nova transferência')
     this.aoTransferir.emit({valor: this.valor, destino: this.destino})
+    let form: any = document.querySelector('form')
+    form.reset();
   }
+
+
 
 }
