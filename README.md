@@ -1,4 +1,9 @@
 # Bytebank 💵 
 App de transferência bancária desenvolvido com angular.
-![ByteBank-img](https://user-images.githubusercontent.com/73480168/215929737-cc9fa83d-742a-4f4b-b3eb-e4485e5727e6.png)
 
+-Utilização do JSON Server
+
+-Consumo de Api
+
+![nova-transferencia](https://user-images.githubusercontent.com/73480168/216513611-0fb78b7f-6521-4f93-9881-da832bb0e922.png)
+![extrato](https://user-images.githubusercontent.com/73480168/216513599-7877d7c4-a304-4fd2-a55a-25d6f4b8bd10.png)
